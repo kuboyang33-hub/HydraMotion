@@ -1,0 +1,48 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# CAD (Fusion 360, FreeCAD, generic temp files)
+*.autosave
+*.bak
+*.tmp
+*.fcstd1
+*.swp
+*.swo
+
+# 3D printing slicer artifacts
+*.gcode
+*.ufp
+*.3mf
+*.stl.tmp
+
+# Firmware build outputs
+build/
+out/
+*.bin
+*.elf
+*.hex
+
+# Klipper logs and temp files
+logs/
+*.log
+*.tmp
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Generated documentation
+/site/
+docs/_build/
+
+# Backup files
+*~
+*.old
+*.backup
