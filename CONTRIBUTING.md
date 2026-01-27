@@ -148,6 +148,10 @@ documentation
 
 These are beginner‑friendly and important.
 
+Enter your email to get approval to edit my OnShape file.
+
 ❤️Code Of Conduct:
 Be respectful, constructive, and collaborative.
 HydraMotion is an open‑hardware project built on shared curiosity and engineering creativity.
+
+Thank You For Supporting This Project!😊❤️
