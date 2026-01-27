@@ -148,7 +148,7 @@ documentation
 
 These are beginner‑friendly and important.
 
-Enter your email to get approval to edit my OnShape file.
+Send me a message from gmail to get approval to edit my OnShape file, my email is:  kuboyang33@gmail.com
 
 ❤️Code Of Conduct:
 Be respectful, constructive, and collaborative.
