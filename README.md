@@ -1,3 +1,5 @@
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5f5f?logo=kofi&logoColor=white)](https://ko-fi.com/YOURNAME)
+
 # HydraMotion
 HydraMotion is an open‑source, modular CoreXY motion platform engineered for creators who want a single machine that can adapt to many fabrication workflows. Instead of being locked into one tool or one purpose, HydraMotion is built around a flexible architecture that supports swappable toolheads and swappable motors, allowing the machine to shift between high‑speed additive work and controlled subtractive operations with minimal friction.
 
@@ -6,3 +8,4 @@ At its core, HydraMotion uses a rigid, precision‑focused CoreXY layout designe
 HydraMotion is built around universal STEP files so every mechanical component can be edited, remixed, or replaced using any major CAD tool. This makes the project intentionally open and contributor‑friendly: users can design new toolheads, experiment with motor mounts, modify the frame, or adapt the system to their own fabrication style. The repository is structured to keep hardware, firmware, electronics, and documentation cleanly separated, making it easy for new contributors to navigate.
 
 HydraMotion isn’t meant to compete with industrial CNC machines or proprietary multi‑tool systems. Instead, it aims to be a transparent, community‑driven platform that encourages experimentation, learning, and modular design. Whether you’re exploring hybrid fabrication, designing your own toolheads, or building a versatile motion system for your workspace, HydraMotion provides a solid foundation to build on.
+## 💖 Support the Project If you’d like to support HydraMotion, check out the [Donating.md](Donating.md) page.
